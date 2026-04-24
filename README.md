@@ -73,7 +73,7 @@ Decentralized Infrastructure
 
 ---
 
-# 🧊 3D Contribution Cube
+
 
 <p align="center">
 
@@ -93,9 +93,9 @@ Decentralized Infrastructure
 
 ---
 
-# 🧠 AI Builder Mode
 
-Currently exploring:
+
+# Currently exploring:
 
 • Blockchain ecosystems
 • Crypto infrastructure
